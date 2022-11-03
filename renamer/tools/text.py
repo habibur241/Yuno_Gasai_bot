@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [Airdrop Unite](https://t.me/AirdropUnite)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [Pokemon Series](https://t.me/onuubb)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [Press Me](https://github.com/bhatsiimran/TG-RENAMER-BOT)
 """
 
     HELP_USER = """**Follow Below Steps:**
