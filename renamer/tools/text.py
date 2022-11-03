@@ -24,7 +24,9 @@ class TEXT:
 
 ** Channel:** [Airdrop Unite](https://t.me/AirdropUnite)
 
-** Channel 2:** [Pokemon Series](https://t.me/onuubb)
+** Channel:** [Pokemon Series](https://t.me/onuubb)
+
+** Source Code:** [Press Me](https://github.com/habibur241/Yuno_Gasai_bot)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -39,9 +41,17 @@ For source code check about
 
     START_TEXT = """Hi {user_mention},
 
-Hi Chizuru Here{SMILING_FACE_WITH_SMILING_EYES}, I will help you with Renaming Files with Permanent Thumbnail.
+Hi Chizuru Here I will help you with Renaming Files with Permanent Thumbnail.
 
 𝖥𝗈𝗋 𝖬𝗈𝗋𝖾 𝖣𝖾𝗍𝖺𝗂𝗅𝗌 𝖲𝖾𝖾 𝖧𝖾𝗅𝗉{WINKING_FACE}.
 
 **Maintained By:** {bot_owner}
 """
+
+
+    DONATE_USER = """**__Thanks for showing interest in donation.__**
+ 
+No need to Pay us we are more than happy you opened this. Thanks for your Support.
+
+__--Payment Methods:--__
+ .....
